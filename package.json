@@ -1,0 +1,24 @@
+{
+  "name": "azureiot",
+  "version": "1.0.0",
+  "description": "testing site for Azure IoT Hub",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheetd/azureIoT.git"
+  },
+  "author": "Neil Meredith <neil@sheetd.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sheetd/azureIoT/issues"
+  },
+  "homepage": "https://github.com/sheetd/azureIoT#readme",
+  "dependencies": {
+    "amqp10": "^3.1.4",
+    "azure-iothub": "^1.0.8",
+    "bluebird": "^3.4.0"
+  }
+}
